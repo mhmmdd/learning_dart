@@ -258,5 +258,3 @@ for (var i=0; i<=lst.length; i++) {
 **Sayfa 61**
 
 [Github Markdown](http://daringfireball.net/projects/markdown/basics)
-Reference codes
-[https://github.com/Ivo-Balbaert/learning_dart](https://github.com/Ivo-Balbaert/learning_dart)
